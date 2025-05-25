@@ -14,16 +14,10 @@ Aplikasi sederhana untuk membantu manajemen stok bahan makanan di rumah tangga. 
 
 ## Cara Menggunakan
 
-1.  **Prasyarat:** Pastikan Anda telah menginstal Go (Golang) di sistem Anda.
-2.  **Kompilasi:**
-    * Buka terminal atau command prompt.
-    * Arahkan ke direktori tempat file `Program.go` disimpan.
-    * Jalankan perintah: `go build Program.go`
-3.  **Jalankan Aplikasi:**
-    * Setelah kompilasi berhasil, jalankan aplikasi dengan perintah:
-        * Untuk Linux/macOS: `./Program`
-        * Untuk Windows: `Program.exe`
-4.  **Interaksi:**
+1.  * Pastikan Anda telah menginstal Go (Golang) di sistem Anda.
+2.  **Jalankan Aplikasi:**
+    * Jalankan perintah: `go run Aplikasi stok bahan makanan.go`
+3.  **Interaksi:**
     * Aplikasi akan menampilkan menu utama dengan pilihan angka.
     * Masukkan angka sesuai dengan fitur yang ingin Anda gunakan dan tekan Enter.
     * Ikuti instruksi selanjutnya yang ditampilkan oleh aplikasi.
